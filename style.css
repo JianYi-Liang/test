@@ -1,7 +1,7 @@
 h1{
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
-    text-decoration-style: underline;
+    font-style:italic;
     color:rgb(98, 45, 162);
     border: rgb(245, 245, 255) dotted 5px;
     padding: 5px;
